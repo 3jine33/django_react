@@ -1,7 +1,7 @@
 # django_react
-Django REST Framework로 backend, React Native로 frontend를 진행한 간단한 메모장
+Django REST Framework로 backend, React Native로 frontend를 진행한 간단한 메모장    
     
-* * *
+* * *    
     
 ## 1. Django - Backend
 
@@ -9,14 +9,14 @@ Django REST Framework로 backend, React Native로 frontend를 진행한 간단�
 ```
   git clone https://github.com/3jine33/django_react.git
   cd djangobac
- ```
+ ```    
      
  
 ### install
 ```
   pip install djangorestframework
   pip install django-cors-headers
-```
+```    
     
 
 ### run
@@ -25,7 +25,7 @@ Django REST Framework로 backend, React Native로 frontend를 진행한 간단�
   python manage.py makemigrations
   python manage.py migrate
   python manage.py runserver
-```
+```    
     
 
 
@@ -40,10 +40,10 @@ Django REST Framework로 backend, React Native로 frontend를 진행한 간단�
 ```
   cd reactfront
   npm install axios
-```
+```    
     
 
 ### run
 ```
   npm start
-```
+```    
